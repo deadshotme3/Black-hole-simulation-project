@@ -3,8 +3,8 @@
 WORK IN PROGRESS
 
 Things to be included:-
-- Schwarzschild Metric & Radius
-- Geodesic Equations for Light Motion
+- Schwarzschild Metric & Radius (Somewhat buggy)
+- Geodesic Equations for Light Motion (currently working on this)
 - Photon Sphere
 - Gravitational Lensing
 - Redshift & Time Dilation
